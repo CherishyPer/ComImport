@@ -1,2 +1,6 @@
 ddd
 www.seb88.com/wenjinruo
+
+
+curl www.seb88.com/wenjinruo
+curl http://www.seb88.com/web.php
